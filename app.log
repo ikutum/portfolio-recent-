@@ -1,0 +1,21 @@
+2023-09-29T13:26:16.572Z [info]: registration Successful for user
+2023-09-29T13:26:16.583Z [info]: ::1 - - [29/Sep/2023:13:26:16 +0000] "POST /authRoutes/register HTTP/1.1" 201 172 "-" "PostmanRuntime/7.33.0"
+
+2023-09-29T13:26:56.157Z [info]: login successfully
+2023-09-29T13:26:56.159Z [info]: ::1 - - [29/Sep/2023:13:26:56 +0000] "POST /authRoutes/login HTTP/1.1" 200 292 "-" "PostmanRuntime/7.33.0"
+
+2023-09-29T13:27:55.410Z [info]: Logout Successfully
+2023-09-29T13:27:55.413Z [info]: ::1 - - [29/Sep/2023:13:27:55 +0000] "GET /authRoutes/logout HTTP/1.1" 200 33 "-" "PostmanRuntime/7.33.0"
+
+2023-09-29T13:31:04.921Z [info]: login successfully
+2023-09-29T13:31:04.923Z [info]: ::1 - - [29/Sep/2023:13:31:04 +0000] "POST /authRoutes/login HTTP/1.1" 200 292 "-" "PostmanRuntime/7.33.0"
+
+2023-09-29T13:31:54.133Z [info]: Access token generated 
+2023-09-29T13:31:54.135Z [info]: ::1 - - [29/Sep/2023:13:31:54 +0000] "POST /authRoutes/renew_token HTTP/1.1" 200 146 "-" "PostmanRuntime/7.33.0"
+
+2023-09-29T13:35:37.475Z [info]: login successfully
+2023-09-29T13:35:37.488Z [info]: ::1 - - [29/Sep/2023:13:35:37 +0000] "POST /authRoutes/login HTTP/1.1" 200 292 "-" "PostmanRuntime/7.33.0"
+
+2023-09-29T13:37:12.402Z [info]: Logout Successfully
+2023-09-29T13:37:12.404Z [info]: ::1 - - [29/Sep/2023:13:37:12 +0000] "GET /authRoutes/logout HTTP/1.1" 200 33 "-" "PostmanRuntime/7.33.0"
+
